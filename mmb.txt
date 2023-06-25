@@ -3,3 +3,20 @@ Repository được hiểu là một kho lưu trữ nơi chứa các files của
 2.git add .
 3.git commit -m 'message'
 4.git push origin master
+
+lay code ve
+1.git clone (link)
+
+tao projectdjango
+1.pipenv shell
+2.django-admin startproject (ten project)
+
+tao app cho project
+django-admin startapp(tenapp)
+
+them app vao phan INSTALLED APP cua setting.py
+
+2 folder can thiet(trong app)
+templates: file html
+static: file css,img,...
+tao file urls.py trong app

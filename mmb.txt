@@ -1,1 +1,5 @@
 Repository được hiểu là một kho lưu trữ nơi chứa các files của dự án
+1. git remote add origin (link)
+2.git add .
+3.git commit -m 'message'
+4.git push origin master
